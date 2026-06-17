@@ -6,34 +6,6 @@ Logitech SUS and recovery tooling.
 This repo does not contain modified firmware. The files listed below are
 official Logitech update bundles.
 
-## Firmware Puller
-
-`harmony_firmware_pull.py` is a small cross-platform downloader for the
-firmware in this index. It uses Python's standard library and does not talk to a
-hub or flash anything.
-
-List the known products:
-
-```bash
-python3 harmony_firmware_pull.py --list-known
-```
-
-Download one bundle:
-
-```bash
-python3 harmony_firmware_pull.py --product 106 --output-dir firmware_downloads
-```
-
-Download every known bundle:
-
-```bash
-python3 harmony_firmware_pull.py --all-known --output-dir firmware_downloads
-```
-
-Add `--extract` to unpack the `.hfw2` zip, or `--extract-payload` to also unpack
-the firmware payload when the bundle format allows it. The tool writes a
-manifest next to each download and checks known size and SHA256 values.
-
 ## Firmware List
 
 | Product / Skin ID | Firmware | File | Device | Codename | Role | Confidence |
