@@ -18,6 +18,7 @@ official Logitech update bundles.
 | 106 | 4.15.600 | [4.15.600.2987731.hfw2](https://d3pk1wwd3l8fri.cloudfront.net/sus/images/106/4.15.600.2987731.hfw2) | Harmony Home Hub | Creemore | Hub | confirmed |
 | 108 | 4.15.330 | [4.15.330.1416643.hfw2](https://d3pk1wwd3l8fri.cloudfront.net/sus/images/108/4.15.330.1416643.hfw2) | Harmony Ultimate Home | NewCastleWhite | Handheld remote | confirmed |
 | 109 | 4.15.600 | [4.15.600.2987731.hfw2](https://d3pk1wwd3l8fri.cloudfront.net/sus/images/106/4.15.600.2987731.hfw2) | Unresolved Harmony hub variant | unresolved | Hub | target skin confirmed, name unresolved |
+| 110 | 1.2.9.1724485 | [1.2.9.1724485.pkg](https://d3pk1wwd3l8fri.cloudfront.net/sus/images/110/1.2.9.1724485.pkg) | Harmony Hub Extender | Moosehead | Extender | confirmed |
 | 111 | 4.15.330 | [4.15.330.6905402.hfw2](https://d3pk1wwd3l8fri.cloudfront.net/sus/images/111/4.15.330.6905402.hfw2) | Harmony Elite / Harmony Pro | Hops | Handheld remote | confirmed; depends on Pro SKU flag |
 | 112 | 4.15.330 | [4.15.330.8196409.hfw2](https://d3pk1wwd3l8fri.cloudfront.net/sus/images/112/4.15.330.8196409.hfw2) | Harmony 950 | HopsLite | Handheld remote | confirmed |
 | 115 | 10.0.230 | [10.0.230.1601641.hfw2](https://d3pk1wwd3l8fri.cloudfront.net/sus/images/115/10.0.230.1601641.hfw2) | Harmony Pro 2400 Hub | Crackerjack | Hub | confirmed codename and role |
