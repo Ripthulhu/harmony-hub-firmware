@@ -22,3 +22,8 @@ official Logitech update bundles.
 | 112 | 4.15.330 | [4.15.330.8196409.hfw2](https://d3pk1wwd3l8fri.cloudfront.net/sus/images/112/4.15.330.8196409.hfw2) | Harmony 950 | HopsLite | Handheld remote | confirmed |
 | 115 | 10.0.230 | [10.0.230.1601641.hfw2](https://d3pk1wwd3l8fri.cloudfront.net/sus/images/115/10.0.230.1601641.hfw2) | Harmony Pro 2400 Hub | Crackerjack | Hub | confirmed codename and role |
 | 116 | 10.0.215 | [10.0.215.6483963.hfw2](https://d3pk1wwd3l8fri.cloudfront.net/sus/images/116/10.0.215.6483963.hfw2) | Harmony Pro 2400 Remote | Orville | Handheld remote | confirmed |
+
+## Changelogs & Superseded Versions
+
+- **[Harmony Hub (`Skin 97` / `106`) `4.15.330` → `4.15.600` Changelog & Reference Hashes](docs/hub-4.15.330-vs-4.15.600.md)** — File-by-file comparison between hardware-dumped `4.15.330` (`2023-03-09`, superseded on SUS) and `4.15.600.2987731.hfw2` (`2025-08-12`), documenting the `axTLS` → `wolfSSL` (TLS 1.2/1.3 + `cacert.pem`) migration, boot-clock validation handling, and removal of the Belkin WeMo and DISH Hopper plugins.
+
